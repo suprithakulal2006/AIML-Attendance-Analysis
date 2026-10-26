@@ -1,0 +1,11 @@
+roll_no,student_name,subject,total_classes,present,absent,excused,attendance,status,classes_needed_75,last_present_date,consecutive_absences,Attendance Category,risk_score,classes_needed_numeric,Attendance Flag,Attendance Range,base_name
+4MW24AI036,RAJU ASHOKA RATHOD,Data Science & GenAI - 3nd Yr- AIML ,12,0,12,0,0,Critical,36 more,,12,Poor,12.0,36,Defaulter,Critical,RAJU ASHOKA RATHOD
+4MW24AI035,RAJATH K K,Data Science & GenAI - 3nd Yr- AIML ,12,0,12,0,0,Critical,36 more,,12,Poor,12.0,36,Defaulter,Critical,RAJATH K K
+4MW25AI401,Omkar Rane,Data Science & GenAI - 3nd Yr- AIML ,12,1,11,0,8,Critical,32 more,2026-09-08,9,Poor,9.8,32,Defaulter,Critical,OMKAR RANE
+4MW24AI045,SHRAVYA,Data Science & GenAI - 3nd Yr- AIML ,12,2,10,0,17,Critical,28 more,2026-09-08,9,Poor,9.399999999999999,28,Defaulter,Critical,SHRAVYA
+4MW24AI003,ADITYA,Data Science & GenAI - 3nd Yr- AIML ,12,1,11,0,8,Critical,32 more,2026-09-22,5,Poor,7.4,32,Defaulter,Critical,ADITYA
+4MW24AI028,MOURYA RAJ H N,Data Science & GenAI - 3nd Yr- AIML ,12,3,9,0,25,Critical,24 more,2026-09-22,5,Poor,6.6,24,Defaulter,Critical,MOURYA RAJ H N
+4MW24AI038,RASHMI,Data Science & GenAI - 3nd Yr- AIML ,12,1,11,0,8,Critical,32 more,2026-10-06,2,Poor,5.6000000000000005,32,Defaulter,Critical,RASHMI
+4MW24AI021,KISHAN J,Data Science & GenAI - 3nd Yr- AIML ,12,3,9,0,25,Critical,24 more,2026-09-29,3,Poor,5.4,24,Defaulter,Critical,KISHAN J
+4MW24AI025,MANMITHA,Data Science & GenAI - 3nd Yr- AIML ,12,2,10,0,17,Critical,28 more,2026-10-06,2,Poor,5.2,28,Defaulter,Critical,MANMITHA
+4MW24AI048,SINCHANA (SUNDARA MADIVALA),Data Science & GenAI - 3nd Yr- AIML ,12,2,10,0,17,Critical,28 more,2026-10-06,2,Poor,5.2,28,Defaulter,Critical,SINCHANA (SUNDARA MADIVALA)

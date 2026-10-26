@@ -1,0 +1,4 @@
+status,student_count,average_attendance,max_consecutive_absences
+Critical,23,30.08695652173913,12
+Safe,13,93.23076923076923,1
+Warning,23,80.56521739130434,2
